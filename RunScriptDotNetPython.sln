@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunScriptDotNetPython", "RunScriptDotNetPython\RunScriptDotNetPython.csproj", "{D9F00B24-E413-49E2-88DC-4FC343F2F2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F00B24-E413-49E2-88DC-4FC343F2F2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F00B24-E413-49E2-88DC-4FC343F2F2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F00B24-E413-49E2-88DC-4FC343F2F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F00B24-E413-49E2-88DC-4FC343F2F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CEB9465-5458-4DC1-9ACF-3E3D31EABD65}
+	EndGlobalSection
+EndGlobal
